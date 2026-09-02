@@ -1,4 +1,5 @@
-Permutable Competitor Visibility Dashboard
+Permutable Competitor Visibility Dashboard:
+
 An interactive Streamlit dashboard for analysing AI tool visibility, competitor mentions, and citation metrics from prompt benchmark data.
 
 Expected CSV format: 
